@@ -1,0 +1,16 @@
+{
+  "name": "blockchain_files",
+  "version": "1.0.0",
+  "description": "This is Sakshi Blockchain projects that she created while learning Blockchain technology.",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "ethers": "^6.11.1"
+  },
+  "type": "module"
+}
